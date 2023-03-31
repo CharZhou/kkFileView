@@ -1,0 +1,13 @@
+.idea/
+node_modules/
+.git/
+manifests/
+
+*Dockerfile*
+.eslintrc.js
+.editorconfig
+.gitignore
+test
+
+
+server/target/
