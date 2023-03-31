@@ -9,5 +9,4 @@ manifests/
 .gitignore
 test
 
-
 server/target/
